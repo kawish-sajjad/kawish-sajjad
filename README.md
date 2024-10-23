@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kawish-sajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="kawish-sajjad" height="30" width="40" /></a>
 <a href="https://github.com/kawish-sajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="kawish-sajjad" height="30" width="40" /></a>
+<a href="https://wa.me/923486687889" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
